@@ -34,7 +34,7 @@ Open in IntelliJ IDEA or VS Code
 Configure MySQL connection in code
 Run the main class
 
-🧪 Usage
+ Usage
 Run the application
 Follow console instructions
 Perform operations like:
@@ -43,9 +43,11 @@ Deposit money
 Withdraw money
 Check balance
 
-🎯 Future Improvements
+ Future Improvements
 Add GUI (JavaFX / Web UI)
 Add authentication system
 Improve transaction security
 Add transaction history
-👨‍💻 Author
+
+ Author
+ Shadab Mobin
