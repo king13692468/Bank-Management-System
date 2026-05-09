@@ -12,18 +12,17 @@
 |---|---------|
 | 1 | [🚀 Features](#-features) |
 | 2 | [🧱 Project Structure](#-project-structure) |
-| 3 | [📸 Screenshots](#-screenshots) |
-| 4 | [⚙️ Tech Stack](#️-tech-stack) |
-| 5 | [🧠 Architecture](#-architecture) |
-| 6 | [🗄️ Database Schema](#️-database-schema) |
-| 7 | [🔧 Modules](#-modules) |
-| 8 | [💳 Banking Operations](#-banking-operations) |
-| 9 | [🏦 Loan Services](#-loan-services) |
-| 10 | [🔐 Security Features](#-security-features) |
-| 11 | [▶️ How to Run](#️-how-to-run) |
-| 12 | [🧪 Testing](#-testing) |
-| 13 | [🎯 Future Improvements](#-future-improvements) |
-| 14 | [👨‍💻 Author](#-author) |
+| 3 | [⚙️ Tech Stack](#️-tech-stack) |
+| 4 | [🧠 Architecture](#-architecture) |
+| 5 | [🗄️ Database Schema](#️-database-schema) |
+| 6 | [🔧 Modules](#-modules) |
+| 7 | [💳 Banking Operations](#-banking-operations) |
+| 8 | [🏦 Loan Services](#-loan-services) |
+| 9 | [🔐 Security Features](#-security-features) |
+| 10 | [▶️ How to Run](#️-how-to-run) |
+| 11 | [🧪 Testing](#-testing) |
+| 12 | [🎯 Future Improvements](#-future-improvements) |
+| 13 | [👨‍💻 Author](#-author) |
 
 <br>
 
@@ -60,35 +59,6 @@ BankManagement/
 └── bank_management.sql       # Database schema
 ```
 
-<br>
-
-## 📸 Screenshots
-
-Click any link below to view screenshots:
-
-### User Authentication
-- [📷 User Registration](screenshot/01-register.png)
-- [📷 User Login](screenshot/02-login.png)
-
-### Account Management
-- [📷 Open Account](screenshot/03-open-account.png)
-- [📷 Check Balance](screenshot/04-check-balance.png)
-
-### Banking Operations
-- [📷 Credit Money](screenshot/05-credit-money.png)
-- [📷 Debit Money](screenshot/06-debit-money.png)
-- [📷 Transfer Money](screenshot/07-transfer-money.png)
-
-### Loan Services
-- [📷 Apply for Loan](screenshot/08-apply-loan.png)
-- [📷 View Loans](screenshot/09-view-loans.png)
-- [📷 Pay EMI](screenshot/10-pay-emi.png)
-- [📷 Auto EMI Processing](screenshot/11-auto-emi.png)
-
-> 💡 **Click any link** to view the screenshot in your browser
-> 📁 All screenshots are in the [`screenshot`](screenshot) folder
-
-<br>
 
 ## ⚙️ TECH STACK
 
